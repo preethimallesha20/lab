@@ -1,1 +1,5 @@
-System.out.println("java");
+public class simple {
+    public static void main(String[] args) {
+        System.out.println("java");
+    }
+}
